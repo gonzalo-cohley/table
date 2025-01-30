@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gonzalo-cohley/table/static/css/main.46289947.css",
+    "main.js": "/gonzalo-cohley/table/static/js/main.6b0e3644.js",
+    "index.html": "/gonzalo-cohley/table/index.html",
+    "main.46289947.css.map": "/gonzalo-cohley/table/static/css/main.46289947.css.map",
+    "main.6b0e3644.js.map": "/gonzalo-cohley/table/static/js/main.6b0e3644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46289947.css",
+    "static/js/main.6b0e3644.js"
+  ]
+}
