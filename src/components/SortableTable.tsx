@@ -37,6 +37,7 @@ const SortableTable: React.FC<SortableTableProps> = ({ onSort }) => {
   const fetchData = async (sortParams?: SortConfig) => {
     setIsLoading(true);
     
+    console.log('Fetching data with params:', sortParams);
     try {
       // Simulate API delay
       await new Promise(resolve => setTimeout(resolve, 1000));

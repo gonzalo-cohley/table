@@ -3,7 +3,7 @@ import SortableTable from '../components/SortableTable.tsx';
 
 const HomeScreen: React.FC = () => {
   const handleSort = (sortConfig: { key: string; direction: 'ascending' | 'descending' }) => {
-    console.log('Sorting:', sortConfig);
+    console.log('Sorted:', sortConfig);
     // Handle the sort event here
   };
 
